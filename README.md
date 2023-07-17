@@ -20,7 +20,7 @@ Change parsers and use tcpdf, tcpdi and tcpdi_parser
 
 Require this package in your composer.json and update composer.
 
-    "adriallongarriu/lara-pdf-merger": "dev-master",
+    "idealizetecnologia",
 
 After updating composer, add the ServiceProvider to the providers array in config/app.php
 
